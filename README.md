@@ -1,4 +1,4 @@
-## Highlight_Project-badminton
+## Highlight Project in Badminton play video
 
 ## Comparision Video (Joojyung's ver  VS  DeepSort)
 - https://www.youtube.com/watch?v=T85zVGbgfBg
